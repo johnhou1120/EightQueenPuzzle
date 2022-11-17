@@ -1,0 +1,6 @@
+C:\Users\tingyueh.hou\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\tingyueh.hou\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\tingyueh.hou\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\tingyueh.hou\Desktop\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\tingyueh.hou\Desktop\EightQueenPuzzle\EightQueenPuzzle\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\tingyueh.hou\Desktop\EightQueenPuzzle\EightQueenPuzzle\obj\x86\Debug\ConsoleApplication2.pdb
